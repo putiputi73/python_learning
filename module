@@ -1,0 +1,5 @@
+#I am learning oh how to use module in python 
+I had to write code for how to import math module and excute some arithmetics
+
+import math
+print(math.sin(math.pi/3))
